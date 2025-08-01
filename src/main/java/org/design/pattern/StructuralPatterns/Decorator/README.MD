@@ -1,3 +1,3 @@
 在不改变原有类的前提下，动态地为其增加新的功能。
 
-![img.png](img.png)
+![img.png](image/img.png)
